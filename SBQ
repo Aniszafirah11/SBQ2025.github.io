@@ -44,7 +44,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            background: url('SBQ2.png');
+            background: url('SBQ1.png');
             font-family: 'Poppins', sans-serif;
             object-fit: cover;
             background-repeat: no-repeat;
